@@ -1,10 +1,10 @@
 RANDOM QUOTE GENERATOR
 
-This code creates a Random Quote Generator web app. The HTML structure includes a title, quote container, and a button. CSS styles enhance the visual layout, while JavaScript fetches quotes from an API, 
+Created a Random Quote Generator web app. The HTML structure includes a title, quote container, and a button. CSS styles enhance the visual layout, while JavaScript fetches quotes from an API, 
 updating the page dynamically on button click for a new quote experience.
 
 
-LINK: 
+LINK: https://deepthi-2024.github.io/Random-Quote-Generator/
 
 
 
